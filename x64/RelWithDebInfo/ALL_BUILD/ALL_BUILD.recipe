@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\x64\RelWithDebInfo\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\RelWithDebInfo\fluxray.brody.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\x64\RelWithDebInfo\Brody_PACKAGE</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\x64\RelWithDebInfo\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

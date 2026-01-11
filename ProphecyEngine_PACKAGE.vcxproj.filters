@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\CMakeFiles\ecc54894c2be2a8829b38b5164e7b3b7\ProphecyEngine_PACKAGE.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\CMakeFiles\ProphecyEngine_PACKAGE" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8B6AEC46-32A4-3A05-90BB-F010A25F89BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

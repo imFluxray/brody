@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\CMakeFiles\ProphecyEngine.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\OracleOverlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\ProphecyManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\BrodyVisuals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\ProphecySettingsLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\hooks\PlayLayerHooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\hooks\PlayerHooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\hooks\MenuHooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\src\hooks\PauseHooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divij\Documents\Geode\entry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\CMakeFiles\ProphecyEngine.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\CMakeFiles\ProphecyEngine.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\CMakeFiles\ProphecyEngine.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\build\CMakeFiles\ProphecyEngine.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\divij\Documents\Coding\Python\geode\prophecy v2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{9616E4F2-C5E6-33D3-85A1-AF96F33222FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{29B3C843-8A2A-36D4-B717-D9AC2A0C5D19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
